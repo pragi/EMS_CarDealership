@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dealership_Program", "Dealership_Program\Dealership_Program.csproj", "{86117272-CCB7-42CD-919B-F2CBA84E9FC2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Dealership_Setup", "Dealership_Setup\Dealership_Setup.vdproj", "{63C19AD1-7A85-424C-BBC9-918DE7E37A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86117272-CCB7-42CD-919B-F2CBA84E9FC2}.Debug|x86.ActiveCfg = Debug|x86
+		{86117272-CCB7-42CD-919B-F2CBA84E9FC2}.Debug|x86.Build.0 = Debug|x86
+		{86117272-CCB7-42CD-919B-F2CBA84E9FC2}.Release|x86.ActiveCfg = Release|x86
+		{86117272-CCB7-42CD-919B-F2CBA84E9FC2}.Release|x86.Build.0 = Release|x86
+		{63C19AD1-7A85-424C-BBC9-918DE7E37A8D}.Debug|x86.ActiveCfg = Debug
+		{63C19AD1-7A85-424C-BBC9-918DE7E37A8D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
